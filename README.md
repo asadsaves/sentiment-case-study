@@ -1,4 +1,4 @@
-Analytics case study for understanding what factors contributed most to employee turnover in a company and predict the likelihood of leaving for an employee. The complete guide can be found [here](https://github.com/sainide/Employee-Turnover-Prediction/blob/master/Turnover%20Guide.ipynb)
+Analytics case study for understanding what factors contributed most to employee turnover in a company and predict the likelihood of leaving for an employee. The complete guide can be found [here](https://github.com/asadsaves/sentiment-case-study?tab=readme-ov-file)
 
 ***
 
